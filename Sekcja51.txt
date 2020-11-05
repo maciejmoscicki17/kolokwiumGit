@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 zmiana1
 zmiana2
+=======
+>>>>>>> parent of 082eb3f... zmiana1X
